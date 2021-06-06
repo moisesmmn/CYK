@@ -1,14 +1,18 @@
-## Getting Started
+# Cyk-Java
+Esse projeto visa implementar o algoritmo Cyk. Os pacotes de código-fonte estão localizados na pasta `\src\`, divididos em dois pacotes:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Pacote cyk
 
-## Folder Structure
+Contém as classes que dizem respeito à gramática.
 
-The workspace contains two folders by default, where:
+- Pacote gerenciador arquivos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Contém classes auxiliares para o processamento de arquivos
 
-## Dependency Management
+<hr />
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Instruções de Uso
+Execute o arquivos `\CykExample.java\` 
+Insira o nome do arquivo que possue a gramatica.
+E depois a palavra que será validada.
+
